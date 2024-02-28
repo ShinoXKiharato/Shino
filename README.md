@@ -14,7 +14,7 @@
   <br>
 </dif>
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yu-0n&theme=shades-of-purple&border_radius=5&exclude_days=Sun&hide_total_contributions=true" alt="GitHub Streak" /></a> <img align="right" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/patapata.gif" alt="Wave.gif" width="400" height="300" />
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yu-0n&theme=shades-of-purple&border_radius=5&exclude_days=Sun&hide_total_contributions=true" alt="GitHub Streak" /></a> <img align="right" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/patapata.gif" alt="Wave.gif" width="300" height="300" />
 
 <br /><br /><br /><br />
 
@@ -29,7 +29,8 @@
   #### Tools
   ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode)
   ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-  
+  ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci-000?style=for-the-badge&logo=davinciresolve)
+  ![Office](https://img.shields.io/badge/-Office-000?style=for-the-badge&logo=windows11)
   
   #### Learning
   ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
