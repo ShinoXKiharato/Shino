@@ -11,12 +11,13 @@
 
 ---
 <dif id="Info" align="center">
-  <h1 align="center">Hey there 👋</h1>
+  <h1 align="center">Hey there <img src="https://github.com/Yu-0n/Yu-0n/blob/master/wave.gif" alt="Wave.gif" width="32" height="32" /></h1>
   <h3 align="center">Embarking on a journey to learn the art of code</h3>
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yu-0n&theme=shades-of-purple&border_radius=5&exclude_days=Sun&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </dif>
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yu-0n&theme=shades-of-purple&border_radius=5&exclude_days=Sun&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<img src="" alt="Wave.gif" width="32" height="32" />
 
 
 
