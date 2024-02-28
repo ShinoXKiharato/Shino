@@ -55,7 +55,7 @@
   <img src="https://cdn.discordapp.com/emojis/630492780149473320.webp?size=96&quality=lossless"><br /><br />
   <!--START_SECTION:waka-->
 
-```txt
+```HTML
 Total Time: 61 hrs 39 mins
 
 Python       55 hrs 1 min    🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢️⚪⚪   89.22 %
