@@ -51,6 +51,7 @@
 
 ---
 
+## Wakatime Stats
 <!--START_SECTION:waka-->
 
 ```txt
