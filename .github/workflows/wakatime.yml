@@ -19,11 +19,12 @@ jobs:
           REPOSITORY: Yu-0n/Yu-0n
           
           SECTION_NAME: waka
-          COMMIT_MESSAGE: Update Wakapi stats
+          COMMIT_MESSAGE: Update Wakatime stats
           BLOCKS: "⚪️🟡🟢"
-          TIME_RANGE: last_14_days
+          TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
+          
 
           TARGET_BRANCH: master
           TARGET_PATH: README.md
