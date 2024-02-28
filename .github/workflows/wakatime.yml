@@ -20,7 +20,7 @@ jobs:
           
           SECTION_NAME: waka
           COMMIT_MESSAGE: Update Wakapi stats
-          BLOCKS: "⬜🟨🟩"
+          BLOCKS: "⚪️🟡🟢"
           TIME_RANGE: last_14_days
           SHOW_TIME: true
           SHOW_TOTAL: true
