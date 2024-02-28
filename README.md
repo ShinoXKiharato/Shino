@@ -21,8 +21,8 @@
 ---
 
 <div align="center">
-  <img align="left" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/leftanime.png" alt="Animeleft" width="200" height="525" />
-  <img align="right" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/rightanime.png" alt="Animeright" width="200" height="525" />
+  <img align="left" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/leftanime.png" alt="Animeleft" width="180" height="525" />
+  <img align="right" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/rightanime.png" alt="Animeright" width="180" height="525" />
   
   #### Languages
   ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
