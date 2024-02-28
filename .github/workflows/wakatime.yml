@@ -24,7 +24,6 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
-          CODE_LANG: HTML
 
           TARGET_BRANCH: master
           TARGET_PATH: README.md
