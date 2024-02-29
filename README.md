@@ -51,11 +51,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+
 <div align="center">
   <img src="https://cdn.discordapp.com/emojis/630492780149473320.webp?size=96&quality=lossless"><br /><br />
-  </div>
-  <!--START_SECTION:waka-->
-
+  
 ```txt
 Total Time: 62 hrs 5 mins
 
@@ -65,6 +65,8 @@ Lua          52 mins         💛🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍�
 YAML         13 mins         🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍   00.36 %
 JSON         8 mins          🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍   00.22 %
 ```
+
+</div>
 
 <!--END_SECTION:waka-->
 
