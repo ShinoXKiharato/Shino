@@ -23,8 +23,9 @@
   </span>
   
 </div>
-
----
+<h2 align="center">
+⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.˖⁺‧₊˚ ♡ ˚₊‧⁺˖⊹˚. ♡*ੈ✩‧₊˚₊˚ʚ ᗢ₊˚✧ ﾟ☁︎｡⋆｡ ﾟ☾
+</h2>
 
 <div align="center">
   <img align="left" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/leftanime.png" alt="Animeleft" width="180" height="525" />
