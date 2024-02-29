@@ -14,9 +14,17 @@
   <br>
 </dif>
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yu-0n&theme=shades-of-purple&border_radius=5&exclude_days=Sun&hide_total_contributions=true" alt="GitHub Streak" /></a> <img align="right" src="https://github.com/Yu-0n/Yu-0n/blob/master/image/patapata.gif" alt="Wave.gif" width="300" height="300" />
+<div align="center">
+  <span>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yu-0n&theme=shades-of-purple&border_radius=5&exclude_days=Sun&hide_total_contributions=true" alt="GitHub Streak" /></a>
+  </span><br /><br />
+  <span align="right">
+    <img src="https://github.com/Yu-0n/Yu-0n/blob/master/image/aesthetic1.gif" alt="aesthetic.gif" width="498" height="312" />
+  </span>
+  
+</div>
 
-<br /><br /><br /><br />
+<br /><br />
 
 ---
 
