@@ -20,7 +20,7 @@ jobs:
           
           SECTION_NAME: waka
           COMMIT_MESSAGE: Update Wakatime stats
-          BLOCKS: "🤍💛❤️"
+          BLOCKS: "🤍💛💚"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
