@@ -51,6 +51,10 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/emojis/630492780149473320.webp?size=96&quality=lossless"><br /><br />
+</div>
 <!--START_SECTION:waka-->
 
 ```txt
