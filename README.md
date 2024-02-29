@@ -1,10 +1,13 @@
 <div id="header" align="center">
   <h1>Yuon's Space💕
 </h1>
-  <a href="https://discord.com/users/420545068475351062"><img src="https://lanyard-profile-readme.vercel.app/api/420545068475351062?bg=343F5B&idleMessage=Dancing%20-%20In%20-%20Space&borderRadius=25px&showDisplayName=true&hideTimestamp=true&animated=True" /></a><br /><br />
+  <h3 align="center">
+        ╭───────────────────────────── ⋆⋅☆⋅⋆ ─────────────────────────────╮
+  </h3><br />
   <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Yu-0n"></a>
-</p>
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Yu-0n"></a>
+  </p>
+  <a href="https://discord.com/users/420545068475351062"><img src="https://lanyard-profile-readme.vercel.app/api/420545068475351062?bg=343F5B&idleMessage=Dancing%20-%20In%20-%20Space&borderRadius=25px&showDisplayName=true&hideTimestamp=true&animated=True" /></a><br /><br />
 </div>
 
 ---
@@ -76,9 +79,9 @@ JSON         8 mins          🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍�
 
 <!--END_SECTION:waka-->
 
-<h2 align="center">
-───────────────────────── ⋆⋅☆⋅⋆ ─────────────────────────
-</h2>
+<h3 align="center">
+╰───────────────────────────── ⋆⋅☆⋅⋆ ─────────────────────────────╯
+</h3>
 
 
 
